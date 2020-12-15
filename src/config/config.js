@@ -9,7 +9,7 @@ module.exports = {
             name: 'db_usuario',
             dialect: 'mysql',
             user: 'root',
-            password: 'vitor.07062001.silva'
+            password: ''
 
         }
 
